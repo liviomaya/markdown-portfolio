@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+There are some things that we **need** to emphasize
+
+And there are *many* ways to do it
