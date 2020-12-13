@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+## The Big Picture
+
+### Initial Considerations
